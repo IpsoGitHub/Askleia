@@ -1,1 +1,1 @@
-Welcome to IpsoGitHub, the official Github account for IPSOMEDIC and IPSOMEL (Aubagne, France).
+Welcome to Askleia, the official Github account (Aubagne, France).
